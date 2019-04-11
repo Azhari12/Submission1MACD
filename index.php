@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "azhariwebappserver.database.windows.net";
+    $host = "submission1macdserver.database.windows.net";
     $user = "azhari12";
     $pass = "Fulldata120897";
     $db = "Submission1MACD";
