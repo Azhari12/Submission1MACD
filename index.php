@@ -28,7 +28,7 @@
  <?php
     $host = "azhariwebappserver";
     $user = "azhari12";
-    $pass = "Fulldata12";
+    $pass = "Fulldata120897";
     $db = "Submission1MACD";
 
     try {
